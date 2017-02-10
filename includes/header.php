@@ -29,6 +29,7 @@
             <a class="blog-nav-item" href="part2.php">Partie 2</a>
             <a class="blog-nav-item" href="part3.php">Partie 3</a>
             <a class="blog-nav-item" href="part4.php">Partie 4</a>
+            <a class="blog-nav-item" href="rendu.php">Rendu</a>
         </nav>
     </div>
 </div>
